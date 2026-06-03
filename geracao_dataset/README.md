@@ -1,4 +1,4 @@
-# Geração de Base de Dados — Redes Ópticas
+# Geração de Base de Dados - Redes Ópticas
 
 Documentação do pipeline de geração, tratamento e aumento da base de dados unificada para análise preditiva de falhas em redes de comunicação óptica.
 
