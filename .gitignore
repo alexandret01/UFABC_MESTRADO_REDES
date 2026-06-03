@@ -218,7 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Datasets grandes (não enviar ao GitHub — usar armazenamento externo)
-Datasets/*.csv
-Datasets/*.txt
-Datasets/*.parquet
 Datasets/output/
